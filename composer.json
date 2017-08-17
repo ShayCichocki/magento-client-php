@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3.3",
         "guzzle/guzzle": "~3.0",
-        "lstrojny/fxmlrpc": ">=0.8,<0.9"
+        "lstrojny/fxmlrpc": "*"
     },
     "require-dev": {
         "pdepend/pdepend": "~1.0",
