@@ -1,5 +1,5 @@
 {
-    "name": "shaycichocki/magento-client-php",
+    "name": "helpscout/magento-client-php",
     "type": "library",
     "description": "A PHP client library that consumes Magento's REST and XMLRPC APIs",
     "homepage": "https://github.com/cpliakas/magento-client-php",
